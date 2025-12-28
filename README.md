@@ -328,4 +328,33 @@ We thank the great works [WinCLIP(zqhang)](https://github.com/zqhang/Accurate-Wi
 ## License
 The code and dataset in this repository are licensed under the [MIT license](https://mit-license.org/).
 
+---
+
+## Big Data Course Implementation
+
+This repository is forked from the original DictAS implementation:
+https://github.com/traananhdat/DictAS
+
+### Student Implementation
+The project is conducted for the Big Data Analysis course.
+Experiments are executed on Kaggle GPU with large-scale datasets.
+
+### What was done
+- Ran DictAS experiments on Kaggle environment
+- Processed large-scale datasets (MVTec AD, BTAD, VISA)
+- Evaluated anomaly detection performance
+- Collected anomaly maps and quantitative results
+- Analyzed Big Data processing workflow
+
+### Datasets
+- Private dataset:
+https://www.kaggle.com/datasets/lthngclyll99/dictas-bigdata-private
+
+- Public dataset:
+https://www.kaggle.com/datasets/lthngclyll99/big-dts
+
+### Experiments
+Notebooks used for Kaggle experiments are provided in the folder `kaggle_experiments/`.
+
+
 
